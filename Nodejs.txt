@@ -1,0 +1,22 @@
+1. What is Nodejs?
+- NOde js is neither a language nor a framwork
+- Node/ Nodejs is a run time environment for the executing javascript on the server side
+
+2. How is a runtime environment on server side ? what is v8?
+- Browsers execure javascrpt on the client side, and similarly, Node.js executes JavaScript on the server side.
+- V8 is as JavaScript engine for the JavaScript language.
+
+3. What is the difference between Runtime environment & Framewok?
+- Runtime environment: Primarily focuses on providing the necessary infrastructure for code execution, including services like memory management and I/O operations.
+- Framewok: Primarily focuses on simplifying the development process by offering a structured set of tool, libraries, and best practics.
+
+4. What is the difference between Node.js and Express.js?
+- Node.js is a runtime environment that allows the execution of javascript code server-side.
+- Express.Js is a framework built on the top NOde.js 
+  It is design to simplify the process of building web applications and APIs by providing a set of features like simple routing system, middleware support etc.
+
+---------Main Features of Nodejs------------
+1. What are the 7 Main features of Nodejs?
+- Single Threaded, Asynchronous, Event-Driven, V8 JavaScript Engine, Cross Platform, NPM(Node package manager), Reat time Capabilities.
+
+2. 
